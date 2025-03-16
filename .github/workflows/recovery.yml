@@ -9,7 +9,7 @@ on:
         default: 'https://use07.thegood.cloud/f/7120710'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://use07.thegood.cloud/f/7120710
 
 jobs:
   build:
