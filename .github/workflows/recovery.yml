@@ -49,6 +49,6 @@ jobs:
 
     - name: Upload Recovery
       uses: actions/upload-artifact@v3.0.0
-      with:
+      with: https://use07.thegood.cloud/f/7120710
         path: /home/runner/work/Patch-Recovery/Patch-Recovery/output/*.md5
         name: Patched-Recovery
